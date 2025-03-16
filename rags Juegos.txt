@@ -1,0 +1,89 @@
+Juego 1: "The Legend of Zelda: Breath of the Wild"
+Género: Aventura / Acción
+Descripción: En este juego de mundo abierto, Link despierta tras un largo sueño para explorar el vasto reino de Hyrule, resolver enigmas y enfrentar a enemigos para derrotar a Calamity Ganon.
+Características:
+- Mundo abierto expansivo y lleno de secretos.
+- Mecánicas innovadoras de exploración y resolución de puzzles.
+- Interacción dinámica con el entorno.
+--------------------------------------------------
+
+Juego 2: "Super Mario Odyssey"
+Género: Plataforma / Aventura
+Descripción: Mario se embarca en una aventura global para rescatar a la Princesa Peach, utilizando su nuevo amigo Cappy para capturar y controlar diversos objetos y enemigos.
+Características:
+- Niveles creativos y temáticos.
+- Mecánica de captura única.
+- Multitud de desafíos y coleccionables.
+--------------------------------------------------
+
+Juego 3: "Minecraft"
+Género: Sandbox / Supervivencia
+Descripción: Un juego de construcción y supervivencia en el que los jugadores exploran, recolectan recursos y construyen estructuras en un mundo generado de manera procedural, con bloques característicos.
+Características:
+- Mundo generado aleatoriamente.
+- Modos de juego creativo y supervivencia.
+- Comunidad activa y extensas posibilidades de modificación.
+--------------------------------------------------
+
+Juego 4: "Fortnite"
+Género: Battle Royale / Shooter
+Descripción: En este popular juego multijugador, 100 jugadores compiten en una batalla para ser el último en pie, combinando construcción y combate en escenarios dinámicos.
+Características:
+- Modos de juego Battle Royale y creativos.
+- Actualizaciones frecuentes y eventos en vivo.
+- Comunidad global y soporte para eSports.
+--------------------------------------------------
+
+Juego 5: "Call of Duty: Modern Warfare"
+Género: Shooter en primera persona / Acción
+Descripción: Este título ofrece intensas campañas y modos multijugador, centrado en conflictos modernos con realismo gráfico y jugabilidad táctica.
+Características:
+- Campaña narrativa realista.
+- Modos multijugador competitivos.
+- Gráficos y efectos de sonido de alta calidad.
+--------------------------------------------------
+
+Juego 6: "Red Dead Redemption 2"
+Género: Acción / Aventura / Mundo Abierto
+Descripción: Ambientado en el salvaje oeste, este juego narra la historia de Arthur Morgan y la banda Van der Linde, ofreciendo una experiencia inmersiva con narrativa profunda y un entorno vibrante.
+Características:
+- Historia cinematográfica y emocional.
+- Mundo abierto detallado y dinámico.
+- Interacción realista con personajes y entorno.
+--------------------------------------------------
+
+Juego 7: "God of War" (2018)
+Género: Acción / Aventura / Mitología
+Descripción: Kratos, acompañado de su hijo Atreus, emprende un viaje a través de la mitología nórdica, enfrentándose a criaturas legendarias y dioses en una narrativa cargada de emociones.
+Características:
+- Combate fluido y visceral.
+- Narrativa profunda y desarrollo de personajes.
+- Gráficos impresionantes y diseño artístico.
+--------------------------------------------------
+
+Juego 8: "Halo: Combat Evolved"
+Género: Shooter en primera persona / Ciencia Ficción
+Descripción: Un clásico de los shooters en consola, en el que el Jefe Maestro lidera la lucha contra la amenaza alienígena Covenant, combinando acción intensa y narrativa épica.
+Características:
+- Campaña y multijugador revolucionarios en su época.
+- Historia y universo expansivos.
+- Jugabilidad cooperativa y competitiva.
+--------------------------------------------------
+
+Juego 9: "World of Warcraft"
+Género: MMORPG / Fantasía
+Descripción: Un icónico juego de rol multijugador masivo ambientado en el universo de Azeroth, donde los jugadores crean personajes y se embarcan en aventuras, batallas y exploraciones en un mundo en constante evolución.
+Características:
+- Extenso mundo de fantasía con historia rica.
+- Diversas razas y clases de personajes.
+- Actualizaciones y expansiones constantes.
+--------------------------------------------------
+
+Juego 10: "Overwatch"
+Género: Shooter en primera persona / Multijugador por equipos
+Descripción: Un juego multijugador en el que equipos de héroes con habilidades únicas se enfrentan en partidas tácticas, promoviendo el juego en equipo y estrategias dinámicas.
+Características:
+- Amplia variedad de héroes con roles definidos.
+- Combate basado en objetivos y coordinación de equipo.
+- Actualizaciones regulares y eventos especiales.
+--------------------------------------------------
